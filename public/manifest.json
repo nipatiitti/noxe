@@ -1,0 +1,15 @@
+{
+  "short_name": "NoXe",
+  "name": "Simple app to make notes",
+  "icons": [
+    {
+      "src": "NX.png",
+      "sizes": "900x900",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

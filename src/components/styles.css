@@ -1,0 +1,79 @@
+body {
+  height: 100%;
+  background-color: #fcfcfc;
+  font-family: 'Montserrat';
+}
+
+.mainDiv {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.formDiv {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.button {
+  background-color: white;
+  flex: 1;
+  border: solid 5px #6eeadc;
+  font-size: 15px;
+  padding: 10px 10px;
+  text-decoration: none;
+  transition: border 0.3s;
+  transform: skew(-20deg);
+}
+.button:focus {
+  border: solid 5px #27e8c4;
+}
+
+.button2 {
+  border: solid 5px #ff5e5e;
+}
+.button2:focus {
+  border: solid 5px #ff4444;
+}
+
+.input-text {
+  flex: 5;
+  padding: 10px;
+  font-size: 15px;
+  border: solid 5px #66ff75;
+  transition: border 0.3s;
+  transform: skew(-20deg);
+}
+.input-text:focus {
+  border: solid 5px #2def54;
+}
+
+.headerListItem {
+  list-style:none;
+  padding-left:0;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.flex {
+  flex: 1;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.marginRight {
+  margin-right: 31.75px;
+}
+
+.marginLeft {
+  margin-left: -2.75px;
+}
+
+.flex5 {
+  flex: 5;
+  display: flex;
+  margin-left: 5px;
+  margin-right: 5px;
+}
