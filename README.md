@@ -1,6 +1,6 @@
 ﻿# NoXe
  
-* [Website](https://www.noxe.tk/)
+* [Website](https://noxe-54e26.web.app/)
 Used to make notes. No Extra stuff only plain simple notes
 
 ## Getting Started
